@@ -19,6 +19,18 @@ body {
     color: #559496;
 }
 
+.projects-flex {
+    color: #559496;
+    display:flex;
+    flex-wrap:wrap;
+}
+
 .contact {
     color: #5560d3;
+}
+
+.project img {
+    scale: 40vw;
+    width: 40vw;
+    padding: 20pt 10pt;
 }
