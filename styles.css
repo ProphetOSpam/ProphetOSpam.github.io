@@ -34,3 +34,12 @@ body {
     width: 40vw;
     padding: 20pt 10pt;
 }
+
+.sketch img {
+    scale: 40vw;
+    width: 40vw;
+    margin: 10px;
+    border: 2px solid rgb(126, 14, 201); /* choose a color */
+    display: block;
+    margin: auto;
+}
