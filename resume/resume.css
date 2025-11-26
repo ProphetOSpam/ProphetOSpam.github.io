@@ -1,0 +1,28 @@
+body {
+    background: white;
+    background-size: contain;
+    color: black;
+    font-family: "Times New Roman";
+    padding: 0.5in
+}
+
+
+#ContactInfo {
+    text-align: center;
+    font-weight: bold;
+}
+
+.column {
+    text-align: center;
+    flex: 50%;
+}
+
+.column ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+.container {
+    display: flex;
+}
+
